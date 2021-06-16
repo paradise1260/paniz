@@ -11,6 +11,7 @@ repository = "https://github.com/paradise1260/paniz"
 
 [tool.poetry.dependencies]
 python = "^3.8"
+pandas = "^1.2.4"
 
 [tool.poetry.dev-dependencies]
 
