@@ -1,6 +1,7 @@
 # paniz 
 
 [![Python](https://img.shields.io/badge/python-3.8-blue)]()
+[![build](https://github.com/paradise1260/paniz/actions/workflows/build.yml/badge.svg)](https://github.com/paradise1260/paniz/actions/workflows/build.yml)
 [![codecov](https://codecov.io/gh/paradise1260/paniz/branch/main/graph/badge.svg)](https://codecov.io/gh/paradise1260/paniz)
 [![Documentation Status](https://readthedocs.org/projects/paniz/badge/?version=latest)](https://paniz.readthedocs.io/en/latest/?badge=latest)
 
