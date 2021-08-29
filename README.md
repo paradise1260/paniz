@@ -1,4 +1,4 @@
-# paniz 
+# Parham 
 
 [![Python](https://img.shields.io/badge/python-3.8-blue)]()
 [![build](https://github.com/paradise1260/paniz/actions/workflows/build.yml/badge.svg)](https://github.com/paradise1260/paniz/actions/workflows/build.yml)
